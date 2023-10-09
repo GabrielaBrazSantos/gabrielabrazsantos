@@ -4,7 +4,7 @@
 
 ### 😊 Gabriela Braz
 
-Olá sou a Gabriela, analista de sistemas, atuo com desenvolvimento .NET e trabalho na área de programação aproximadamente 16 anos. Tive contato com diversas linguagens e banco de dados para efetuar correções e novas implementações. Aperfeiçoando posteriormente em .NET 
+Olá sou a Gabriela, analista de sistemas, atuo com desenvolvimento .NET e trabalho na área de programação a alguns anos. Tive contato com diversas linguagens e banco de dados para efetuar correções e novas implementações. Aperfeiçoando posteriormente em .NET 
 
 Como amantes de tecnologia somos sempre iniciantes em algo, sendo assim, no momento estou em transição de backend para fullstack. 🤓
 
