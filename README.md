@@ -42,24 +42,25 @@ Conhecimentos Academicos:
 ### Hard Skills
 | # | Avançado |
 |-----|---------------|
-| ![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=c-sharp)| ![ASPNET](https://img.shields.io/badge/ASPNET-blue?style=for-the-badge&logoColor=823085) 
+| ![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=c-sharp) ![VB.NET](https://img.shields.io/badge/VB.NET-blue?style=for-the-badge)| ![ASPNET](https://img.shields.io/badge/ASPNET-blue?style=for-the-badge&logoColor=823085) 
 | ![SQLSERVER](https://img.shields.io/badge/SQLSERVER-blue?&logo=sqlserver&style=for-the-badge&logoColor=823085)|  ![TSQL](https://img.shields.io/badge/TSQL-blue?style=for-the-badge&logoColor=823085) |
 | ![Lógica de programação](https://img.shields.io/badge/Lógica-blue?style=for-the-badge&logoColor=823085) | ![UML](https://img.shields.io/badge/UML-blue?style=for-the-badge&logoColor=823085) |
 | ![WCF](https://img.shields.io/badge/WCF-blue?style=for-the-badge&logoColor=823085) | ![LINQ](https://img.shields.io/badge/LINQ-blue?style=for-the-badge&logoColor=823085) |
 | ![JSON](https://img.shields.io/badge/JSON-blue?style=for-the-badge&logoColor=823085)|![ASP](https://img.shields.io/badge/ASP-blue?&logo=asp&style=for-the-badge)|
+| ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-blue?&logo=postgresql&style=for-the-badge) |![API](https://img.shields.io/badge/API-blue?style=for-the-badge&logoColor=823085)|
 
 | # | Intermediário |
 |-----|---------------|
-| ![EF](https://img.shields.io/badge/EF-000?style=for-the-badge&logoColor=823085) | ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-000?&logo=postgresql&style=for-the-badge) | 
-|![MySQl](https://img.shields.io/badge/MySQL-000?&logo=mysql&style=for-the-badge) | ![API](https://img.shields.io/badge/API-000?style=for-the-badge&logoColor=823085) |
+| ![GIT](https://img.shields.io/badge/GIT-000?&logo=GIT&style=for-the-badge) | ![SCRUM](https://img.shields.io/badge/SCRUM-000?&logo=SCRUM&style=for-the-badge)  | 
+|![MySQl](https://img.shields.io/badge/MySQL-000?&logo=mysql&style=for-the-badge) | ![Kanban](https://img.shields.io/badge/Kanban-000?&logo=Kanban&style=for-the-badge) |
+
 
 | # | Básico |
 |-----|---------------|
 ![PHP](https://img.shields.io/badge/PHP-000?&logo=PHP&style=for-the-badge) | ![JAVA](https://img.shields.io/badge/Java-000?&logo=JAVA&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-000?&logo=Python&style=for-the-badge) | ![HTML](https://img.shields.io/badge/HTML-000?&logo=html5&style=for-the-badge)
- ![CSS](https://img.shields.io/badge/CSS-000?&logo=css3&style=for-the-badge) | ![GIT](https://img.shields.io/badge/GIT-000?&logo=GIT&style=for-the-badge) |
- ![GITHUB](https://img.shields.io/badge/GITHUB-000?&logo=GITHUB&style=for-the-badge) | ![Javascript](https://img.shields.io/badge/Javascript-000?&logo=Javascript&style=for-the-badge) |
-![SCRUM](https://img.shields.io/badge/SCRUM-000?&logo=SCRUM&style=for-the-badge) |  ![Kanban](https://img.shields.io/badge/Kanban-000?&logo=Kanban&style=for-the-badge)
+ ![CSS](https://img.shields.io/badge/CSS-000?&logo=css3&style=for-the-badge) | ![GITHUB](https://img.shields.io/badge/GITHUB-000?&logo=GITHUB&style=for-the-badge)  |
+ | ![Javascript](https://img.shields.io/badge/Javascript-000?&logo=Javascript&style=for-the-badge) |
 
 ### Soft Skills
 ![Proatividade](https://img.shields.io/badge/Proatividade-red)
@@ -74,7 +75,9 @@ Conhecimentos Academicos:
 ![SVN](https://img.shields.io/badge/SVN-darkblue?&logo=TORTOISESVN)
 ![GoogleDrive](https://img.shields.io/badge/Drive-red?&logo=GoogleDrive)
 ![MSSQLSERVER](https://img.shields.io/badge/MSSQLSERVER-darkblue?&logo=MSSQLSERVER)
-![Email](https://img.shields.io/badge/Email-red?&logo=Email)
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-red?&logo=POSTGRESQL)
+![Email](https://img.shields.io/badge/Email-darkblue?&logo=Email)
+![Excel](https://img.shields.io/badge/Excel-red?&logo=Excel)
 
 
 ### Social Media
