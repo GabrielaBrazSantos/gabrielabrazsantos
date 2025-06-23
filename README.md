@@ -29,7 +29,7 @@ Gerenciamento de Código com SVN, Git e Azure Devops (GIT, Reviews).
 
 
 ### Formação Acadêmica: 
-Análise e Desenvolvimento de Sistemas ( Universidade Braz Cubas  - DEZ/2023)
+Análise e Desenvolvimento de Sistemas ( Universidade Braz Cubas  - DEZ/2023).
 Técnico Informática/Processamento de dados ( Cruzeiro do Sul - DEZ/2005)
 
 ### Cursos complementares
