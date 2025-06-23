@@ -24,12 +24,15 @@ Desenvolvimento de Microserviços, Arquitetura em camadas, manutenção em siste
 Gerenciamento de Código com SVN, Git e Azure Devops (GIT, Reviews).
 
 •	Processos e Metodologias: ITIL, Scrum, XP, Kanban.
+
 •	Ferramentas: MS Pacote Office , Teams,  Salesforce, Google Workspace (Formulários web, Agenda, Meet, Planilhas, Apresentações), Jira, Trello.
+
 •	Conhecimentos Acadêmicos: Docker, Linux, Azure - Service Bus, HTML5, CSS3, JavaScript.
 
 
 ### Formação Acadêmica: 
 Análise e Desenvolvimento de Sistemas ( Universidade Braz Cubas  - DEZ/2023).
+
 Técnico Informática/Processamento de dados ( Cruzeiro do Sul - DEZ/2005)
 
 ### Cursos complementares
