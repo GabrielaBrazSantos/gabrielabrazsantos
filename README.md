@@ -9,24 +9,31 @@ Olá sou a Gabriela, analista de sistemas, atuo com desenvolvimento .NET e traba
 Como amantes de tecnologia somos sempre iniciantes em algo, sendo assim, no momento estou em transição de backend para fullstack. 🤓
 
 ### Resumo do perfil
-Desenvolvimento C#, ASP NET, Entity Framework, Web API, Web Forms, MVC. Banco de dados SQL Server, PostgreSQL, MySQL e Oracle. POO. Designer Patterns, SOLID. Lógica de Programação. Profissional em transição de back end para front end (full stack). Adaptabilidade, Proatividade, Solução de problemas, Trabalho em equipe.
+Desenvolvimento C#, ASP NET, Entity Framework, Dapper, Web API, Web Forms, MVC, WCF. Banco de dados SQL Server, PostgreSQL, MySQL e Oracle. Designer Patterns como Repository, Dependency Injection, SOLID. Lógica de Programação. Profissional em transição de back end para front end (full stack). Adaptabilidade, Proatividade, Solução de problemas, Trabalho em equipe.
 
-Análise de Requisitos, elaboração da Especificação Funcional e Técnica. 
+Documentação técnica: Análise de Requisitos, elaboração da Especificação Funcional e Técnica e Evidência de Testes. 
 
 Desenvolvimento backend.: ASP Net, C#, Linq to SQL, Entity Framework, Engenharia Reversa, SQL Server, PostgreSQL, MySQL, Oracle (manutenções em bancos existentes). Web Forms, MVC, Web API REST.
 
-Legado: Enterprise Library, Criação de Serviços Windows (WCF), Web Services, Integração entre sistemas. Gráficos DevExpress. Programação ASP Clássico com componentes desenvolvidos em VB6 (COM+).
+Legado: Enterprise Library, Criação de Serviços Windows (WCF), Web Services, Integração entre sistemas. Gráficos com DevExpress. Programação ASP Clássico com componentes desenvolvidos em VB6 (COM+).
 
-SQL Server: criação de Stored Procedures, Views,Functions,Triggers, Cursores, Linked Server, DTS, Backup e Restore, linguagem t-SQL Boa Lógica de programação. 
+MS SQL Server: DML - Modelagem de dados, criação de Stored Procedures, Views,Functions,Triggers, Cursores, Linked Server, DTS, Backup e Restore, linguagem t-SQL Boa Lógica de programação. 
 
-Arquitetura em camadas, designer patterns, manutenção em sistemas desenvolvidos em PHP com banco de dados MySQL. Preparação do pacote a ser colocado em produção (GMUD), acompanhamento da homologação e implantação dos projetos/melhorias/bugs. Resolução de correções, investigação do erro. ITIL abertura, acompanhamento e fechamento de tickets dentro do prazo (SLA) previamente estabelecido.
+Desenvolvimento de Microserviços, Arquitetura em camadas, manutenção em sistemas desenvolvidos em PHP com banco de dados MySQL. Preparação do pacote a ser colocado em produção (GMUD), acompanhamento da homologação e implantação dos projetos/melhorias/bugs. Resolução de correções, investigação do erro. ITIL (abertura, acompanhamento e fechamento de tickets dentro do prazo - SLA previamente estabelecido).
+
+Gerenciamento de Código com SVN, Git e Azure Devops (GIT, Reviews).
+
+•	Processos e Metodologias: ITIL, Scrum, XP, Kanban.
+•	Ferramentas: MS Pacote Office , Teams,  Salesforce, Google Workspace (Formulários web, Agenda, Meet, Planilhas, Apresentações), Jira, Trello.
+•	Conhecimentos Acadêmicos: Docker, Linux, Azure - Service Bus, HTML5, CSS3, JavaScript.
+
 
 ### Formação Acadêmica: 
-Análise e Desenvolvimento de Sistemas ( Universidade Cruzeiro do Sul - DEZ/2023)
-Técnico Informática/Processamento de dados (DEZ/2005)
+Análise e Desenvolvimento de Sistemas ( Universidade Braz Cubas  - DEZ/2023)
+Técnico Informática/Processamento de dados ( Cruzeiro do Sul - DEZ/2005)
 
 ### Cursos complementares
-Desenvolvimento Fullstack (Softex - DEZ/2023)
+Bootcamps diversos na plataformas de estudos DIO
 
 Conhecimentos Academicos:
 ![JAVA](https://img.shields.io/badge/JAVA-000?&logo=JAVA)
